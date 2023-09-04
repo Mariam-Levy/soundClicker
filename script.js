@@ -1,4 +1,4 @@
-const sounds = ['else', 'guns', 'shania', 'one', 'memories', 'girls']; // Array que contiene los nombres de las canciones
+const sounds = ['nothing_else', 'guns_n_roses', 'shania_twain', 'one', 'memories', 'girls_like_you']; // Array que contiene los nombres de las canciones
 let currentSound = null; // declaraion de una variable que se usara para rastrear la cancion que se este reproduccion actualmente
 
 //Bucle 'forEach' para recorrer cada elemento del array y ejecutar una funcion para cada uno.
